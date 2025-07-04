@@ -1,0 +1,22 @@
+{
+  "name": "cst8918-a09",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nidhi0152/cst8918-a09.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nidhi0152/cst8918-a09/issues"
+  },
+  "homepage": "https://github.com/Nidhi0152/cst8918-a09#readme",
+  "description": "",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
